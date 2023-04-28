@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using RepasoPC.Models;
 
-namespace myapp.Data;
+namespace RepasoPC.Data;
 
 public class ApplicationDbContext : IdentityDbContext
 {
@@ -10,6 +10,6 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
-
+   public DbSet<Contacto> DataContactos { get; set; }
 
 }

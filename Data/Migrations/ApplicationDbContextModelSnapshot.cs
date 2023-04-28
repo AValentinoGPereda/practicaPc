@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
-using myapp.Data;
+using RepasoPC.Data;
 
 #nullable disable
 
-namespace myapp.Data.Migrations
+namespace RepasoPC.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
@@ -222,42 +222,34 @@ namespace myapp.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("myapp.Models.Registro", b =>
+            modelBuilder.Entity("RepasoPC.Models.Contacto", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer")
-                        .HasColumnName("id_usu");
+                        .HasColumnName("id");
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Contrasena")
+                    b.Property<string>("Consulta")
                         .HasColumnType("text")
-                        .HasColumnName("contrasena");
+                        .HasColumnName("consulta");
 
-                    b.Property<string>("Correo")
+                    b.Property<string>("CorreoElectronico")
                         .HasColumnType("text")
-                        .HasColumnName("correo");
+                        .HasColumnName("email");
+
+                    b.Property<string>("Intento")
+                        .HasColumnType("text")
+                        .HasColumnName("intento");
 
                     b.Property<string>("Nombre")
                         .HasColumnType("text")
-                        .HasColumnName("nombres");
-
-                    b.Property<string>("NombreUsu")
-                        .HasColumnType("text")
-                        .HasColumnName("nom_usu");
-
-                    b.Property<string>("Pais")
-                        .HasColumnType("text")
-                        .HasColumnName("pais");
-
-                    b.Property<string>("Telefono")
-                        .HasColumnType("text")
-                        .HasColumnName("telf");
+                        .HasColumnName("name");
 
                     b.HasKey("Id");
 
-                    b.ToTable("usuario");
+                    b.ToTable("t_contacto");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

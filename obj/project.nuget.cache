@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mnraSy9D+VTXwrZdm0cC3wtzZWsXideLrwkkvgEQ6bYJZHqOkeDgKmP5h+OS/+Jn1jBTWle/qnJMr8gO8P4M6Q==",
+  "dgSpecHash": "6tuePAwav706Cs1/nz4h0zSXfD0d7VQDgLMjPSCmglVAACJwmcT5X1szLzZXrA8+DKiUwLne/SCSP0kJbK4Hmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\RepasoPC.csproj",
+  "projectFilePath": "c:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\RepasoPC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sistema\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Sistema\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
