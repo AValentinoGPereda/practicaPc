@@ -1,0 +1,9 @@
+C:\Users\Sistema\Desktop\PROYS PRUEBA\RepasoPC\obj\Debug\net7.0\RepasoPC.csproj.AssemblyReference.cache
+C:\Users\Sistema\Desktop\PROYS PRUEBA\RepasoPC\obj\Debug\net7.0\RepasoPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema\Desktop\PROYS PRUEBA\RepasoPC\obj\Debug\net7.0\RepasoPC.AssemblyInfoInputs.cache
+C:\Users\Sistema\Desktop\PROYS PRUEBA\RepasoPC\obj\Debug\net7.0\RepasoPC.AssemblyInfo.cs
+C:\Users\Sistema\Desktop\PROYS PRUEBA\RepasoPC\obj\Debug\net7.0\RepasoPC.csproj.CoreCompileInputs.cache
+C:\Users\Sistema\Desktop\PROYS PRUEBA\RepasoPC\obj\Debug\net7.0\RepasoPC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sistema\Desktop\PROYS PRUEBA\RepasoPC\obj\Debug\net7.0\RepasoPC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sistema\Desktop\PROYS PRUEBA\RepasoPC\obj\Debug\net7.0\RepasoPC.RazorAssemblyInfo.cache
+C:\Users\Sistema\Desktop\PROYS PRUEBA\RepasoPC\obj\Debug\net7.0\RepasoPC.RazorAssemblyInfo.cs

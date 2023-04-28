@@ -20,7 +20,6 @@ if (app.Environment.IsDevelopment())
 {
     app.UseMigrationsEndPoint();
 }
-//a
 else
 {
     app.UseExceptionHandler("/Home/Error");
