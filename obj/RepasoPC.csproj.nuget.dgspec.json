@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\RepasoPC.csproj": {}
+    "C:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\RepasoPC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\RepasoPC.csproj": {
+    "C:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\RepasoPC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\RepasoPC.csproj",
+        "projectUniqueName": "C:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\RepasoPC.csproj",
         "projectName": "RepasoPC",
-        "projectPath": "c:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\RepasoPC.csproj",
+        "projectPath": "C:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\RepasoPC.csproj",
         "packagesPath": "C:\\Users\\Sistema\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\obj\\",
+        "outputPath": "C:\\Users\\Sistema\\Desktop\\PROYS PRUEBA\\RepasoPC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sistema\\AppData\\Roaming\\NuGet\\NuGet.Config"
